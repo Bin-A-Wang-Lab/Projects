@@ -3,7 +3,7 @@
 [Home](https://bin-a-wang-lab.github.io/Home/)  [News](https://bin-a-wang-lab.github.io/News/)  [Projects](https://bin-a-wang-lab.github.io/Projects/)   [Publications](https://bin-a-wang-lab.github.io/Publications/)  [Resources](https://bin-a-wang-lab.github.io/Resources/)
 
 
-**How expectations influence learning using Bayesian inference
+**How expectations influence learning using Bayesian inference**
 
 During learning, the brain is a prediction engine that continually makes theories about our environment and accurately registers whether an assumption is true or not. We have shown that expectation during these predictions affects the activity of various brain networks. The results were published in March and April 2020 in the journals Cerebral Cortex and Journal of Neuroscience.
 
@@ -25,13 +25,13 @@ So far, the thalamus has been viewed as a switch, our results underline its role
 Affecting sensory perception
 The insular cortex, on the other hand, is involved in perception, motor control, self-confidence, cognitive functions and interpersonal experiences. This part was particularly active when a participant had already made his decision and then found out whether he was right or wrong. Different networks that are anchored in the insular cortex are regulated by expectations and thus seem to have a direct influence on future sensory perception.
 
-**How experiences influence brain plasticity
+**How experiences influence brain plasticity**
 
 The excellent motor skills of world class gymnasts amaze everyone. People marvel at the way they precisely control their movements and wonder how the brain structure and function of these elite athletes differ from those of non-athletes. In our two studies from the journal of NeuroImage (2013) and Brian Structure and Function (2015), we acquired diffusion images and resting-state functional brain images from thirteen world class gymnasts and fourteen matched controls. We showed the plasticity changes in terms of brain structure and function after the extensive professional exercise training.
 Our findings may help to explain gymnastic skills at the highest levels of performance and aid in understanding the neural mechanisms that distinguish expert gymnasts from novices.
 
 
-**Neural oscillatory dynamics in the motor system 
+**Neural oscillatory dynamics in the motor system** 
 
 Motor actions result from a complex and dynamic interplay of various brain regions which are partly involved in the different cognitive processes of motor output generation, including movement selection (what action to choose), decision (whether to act), timing (when to act) and monitoring (how an action is performed). Identifying the mechanisms that enable these dynamic functional interactions among distributed neural populations has therefore been a fundamental question for motor neuroscience. 
 
