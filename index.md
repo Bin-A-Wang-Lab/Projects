@@ -2,19 +2,7 @@
 
 [Home](https://bin-a-wang-lab.github.io/Home/)  [News](https://bin-a-wang-lab.github.io/News/)  [Projects](https://bin-a-wang-lab.github.io/Projects/)   [Publications](https://bin-a-wang-lab.github.io/Publications/)  [Resources](https://bin-a-wang-lab.github.io/Resources/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 # 1. How expectations influence learning using Bayesian inference
 
 During learning, the brain is a prediction engine that continually makes theories about our environment and accurately registers whether an assumption is true or not. We have shown that expectation during these predictions affects the activity of various brain networks. The results were published in March and April 2020 in the journals Cerebral Cortex and Journal of Neuroscience.
