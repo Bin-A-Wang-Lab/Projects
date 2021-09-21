@@ -10,19 +10,23 @@ During learning, the brain is a prediction engine that continually makes theorie
 We identified two key regions in the brain: the thalamus plays a central role in decision-making. The insular cortex, on the other hand, is particularly active when it is clear whether the right or wrong decision has been made. The expectation during learning then regulates specific connections in the brain and thus the prediction for learning-relevant sensory perception.
 
 _Focus on the decision making process_
+
 For the investigation, we used a learning task that focuses on the decision-making process during the perception of skin contact in the brain. It’s like learning a computer strategy game using a game pad, which gives sensory feedback to certain fingers on certain stimuli. The point is that a certain touch stimulus leads to success and that this has to be learned from stimulation to stimulation.28 participants were given either tactile stimulus A or B on the index finger in each trial run. At the push of a button, they then had to predict whether the subsequent tactile stimulus would be the same or not. The probability of A and B was constantly changing, which the participant had to learn from prediction to prediction.
 
 
 _Strategy analysis_
+
 During the test, the participants’ brain activity was examined using functional magnetic resonance imaging. The researchers were particularly interested in the trial runs in which the participants changed their decision-making strategy. They asked the question to what extent the change in expectations influenced brain activity.
 
 Two brain regions stood out: the thalamus and the insular cortex. The thalamus processes information that comes from the sensory organs or other areas of the brain and passes it on to the cerebrum. It is also called the gateway to consciousness.
 
 _A new role for the thalamus_
+
 Using functional magnetic resonance images, the researchers were able to show that different brain connections between the prefrontal cortex and the thalamus were responsible for maintaining a learning strategy or changing the strategy. The higher the expectations before the decision, the sooner the strategy was maintained and the lower the strength of these connections. With low expectations, there was a change of strategy and the regions seemed to interact much more strongly with each other. The brain appears to be particularly active when a learning strategy has to be changed while it takes significantly less energy to maintain a strategy. 
 So far, the thalamus has been viewed as a switch, our results underline its role in higher cognitive functions that help decision-making while learning. So the thalamus is not only a gateway to sensory consciousness, but rather it seems to link it to cognitive processes that serve, for example, to make decisions.
 
 _Affecting sensory perception_
+
 The insular cortex, on the other hand, is involved in perception, motor control, self-confidence, cognitive functions and interpersonal experiences. This part was particularly active when a participant had already made his decision and then found out whether he was right or wrong. Different networks that are anchored in the insular cortex are regulated by expectations and thus seem to have a direct influence on future sensory perception.
 
 **2. How experiences influence brain plasticity**
